@@ -5,7 +5,7 @@
 * Toplu Taşıma:
 >>* Minibüs Rotaları
 >>* Dolmuş Rotaları
->>* otobüs Durakları
+>>* Otobüs Durakları
 
 
 
