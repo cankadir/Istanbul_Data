@@ -34,3 +34,8 @@ Paylaşılan verilerin kaynakları ve metadata'ları olmadığına dikkat edin. 
 >>* Turistik çekim merkezleri, veri temizlenmemiştir.
 >>* Restoranlar, 2018 yılından, ismi girilmemiş konumların doğruluğundan süpheliyim.
 
+* Yeşil: 
+>>* Kentsel yeşil alanlar
+
+* Tesisler:
+>>* Faciliteler, tesisler, vs
